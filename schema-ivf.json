@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CReATe Fertility Center",
+    "description": "CReATe Fertility Centre is a leading IVF, IUI, Infertility Treatment Clinic based in Toronto, Ontario. It has highly skilled fertility doctors & a high IVF success rate./",
+    "url": "https://www.createivf.com/",
+    "logo": "https://www.createivf.com/assets/logo.svg",
+    "sameAs": [
+      "https://www.facebook.com/CreateFertilityCentre/",
+      "https://www.instagram.com/createfertilitycentre/"
+    ],
+    "alternateName": "CReATe IVF"
+  },
+  "name": "CReATe Fertility Center - About Us",
+  "description": "CReATe Fertility Centre is the leading infertility clinic in Canada. It offers IVF, IUI, Surrogacy, Egg Donation, Egg freezing, Sperm Donation services and has state of the art technology such as EmbryoScope.",
+  "inLanguage": "English",
+  "headline": "About Us - CReATe Fertility Centre | ART, IVF and IUI Centre | Ontario, Canada | CReATe Fertility Centre",
+  "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "https://www.createivf.com/",
+        "name": "Home"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "https://www.createivf.com/about/",
+        "name": "About Us"
+      }
+    }
+  ]
+}
+  </script>
