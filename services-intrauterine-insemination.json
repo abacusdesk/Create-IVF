@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Center",
+        "description": "Create IVF helps couples fulfill dreams of becoming parents with cutting-edge fertility research, genetics, and donor-surrogacy programs.",
+        "url": "https://www.createivf.com/",
+        "logo": "https://www.createivf.com/assets/logo.svg",
+        "sameAs": [
+            "https://www.facebook.com/CreateFertilityCentre/",
+            "https://www.instagram.com/createfertilitycentre/"
+        ],
+        "alternateName": "CReATe IVF"
+    },
+    "name": "Services - Intrauterine Insemination",
+    "description": "CReATe Fertility Centre provides you the best fertility treatment with Intrauterine insemination procedure. The IUI process has high success & uses minimally invasive procedures.aresh Doshi is the best Neurosurgeon in India having more than 26 years of experience dedicated himself entirely to functional neurological work and has trained in the field of Stereotaxy and Functional neurosurgery.",
+    "inLanguage": "English",
+    "headline": "Intrauterine Insemination",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.createivf.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.createivf.com/fertility-services/intrauterine-insemination/",
+                "name": "Intrauterine Insemination"
+            }
+        }
+    ]
+}
+</script>
