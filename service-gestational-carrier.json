@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Center",
+        "description": "Create IVF helps couples fulfill dreams of becoming parents with cutting-edge fertility research, genetics, and donor-surrogacy programs.",
+        "url": "https://www.createivf.com/",
+        "logo": "https://www.createivf.com/assets/logo.svg",
+        "sameAs": [
+            "https://www.facebook.com/CreateFertilityCentre/",
+            "https://www.instagram.com/createfertilitycentre/"
+        ],
+        "alternateName": "CReATe IVF"
+    },
+    "name": "Gestational Carrier (Surrogacy) at CReATe Fertility Center",
+    "description": "A gestational carrier can help in the absence of the uterus from birth, an abnormal uterus from birth, a hysterectomy later in life, and more.",
+    "inLanguage": "English",
+    "headline": "Gestational Carrier (Surrogacy)",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.createivf.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.createivf.com/fertility-services/surrogacy/",
+                "name": "Gestational Carrier (Surrogacy)"
+            }
+        }
+    ]
+}
+</script>
