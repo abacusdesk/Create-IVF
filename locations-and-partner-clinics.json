@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Center",
+        "description": "Create IVF helps couples fulfill dreams of becoming parents with cutting-edge fertility research, genetics, and donor-surrogacy programs.",
+        "url": "https://www.createivf.com/",
+        "logo": "https://www.createivf.com/assets/logo.svg",
+        "sameAs": [
+            "https://www.facebook.com/CreateFertilityCentre/",
+            "https://www.instagram.com/createfertilitycentre/"
+        ],
+        "alternateName": "CReATe IVF"
+    },
+    "name": "Locations and Partner Clinics - CReATe Fertility Center",
+    "description": "CReATe Fertility Centre has partner clinics all across Canada. We work jointly with our partner clinics and medical experts to offer the most convenient fertility care for our patients.",
+    "inLanguage": "English",
+    "headline": "Locations and Partner Clinics",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.createivf.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.createivf.com/about/locations-satellite-clinics/",
+                "name": "Locations and Partner Clinics"
+            }
+        }
+    ]
+}
+</script>
