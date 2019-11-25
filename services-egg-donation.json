@@ -14,10 +14,10 @@
         ],
         "alternateName": "CReATe IVF"
     },
-    "name": "Cycle Monitoring at CReATe Fertility Center",
-    "description": "Cycle monitoring is the process that allows the fertility professional to review the development of the eggs and follicles and measure hormone levels. CReATe Fertility monitors your cycles during the treatment.",
+    "name": "Egg Donation at CReATe Fertility Center",
+    "description": "CReATe Fertility Centre offers egg donation service in Canada, as it's a safe and effective treatment for intended parents to increase their chances of getting pregnant.",
     "inLanguage": "English",
-    "headline": "Cycle Monitoring",
+    "headline": "Egg Donation",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -38,8 +38,8 @@
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://www.createivf.com/fertility-services/cycle-monitoring/",
-                "name": "Cycle Monitoring"
+                "@id": "https://www.createivf.com/fertility-services/egg-donation/",
+                "name": "Egg Donation"
             }
         }
     ]
