@@ -1,0 +1,46 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Center",
+        "description": "Create IVF helps couples fulfill dreams of becoming parents with cutting-edge fertility research, genetics, and donor-surrogacy programs.",
+        "url": "https://www.createivf.com/",
+        "logo": "https://www.createivf.com/assets/logo.svg",
+        "sameAs": [
+            "https://www.facebook.com/CreateFertilityCentre/",
+            "https://www.instagram.com/createfertilitycentre/"
+        ],
+        "alternateName": "CReATe IVF"
+    },
+    "name": "CReATe Fertility Center - About Us",
+    "description": "CReATe Fertility Centre is a leading infertility clinic in Canada with cutting-edge EmbryoScope technology offering IVF, IUI, Surrogacy, Egg Donation, Egg freezing, and Sperm Donation.",
+    "inLanguage": "English",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.createivf.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.createivf.com/about/",
+                "name": "About Us"
+            }
+        }
+    ]
+}
+  </script>
