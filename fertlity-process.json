@@ -14,7 +14,7 @@
         ],
         "alternateName": "CReATe IVF"
     },
-    "name": "Fertility Process Cost at CReATe Fertility Center",
+    "name": "Fertility Process at CReATe Fertility Center",
     "description": "Visit our website CReATe Fertility Centre for a better understanding of the IVF medical process, IVF Cost, IVF Funding Process and Insurance Plan Coverage.",
     "inLanguage": "English",
     "headline": "Pathway to Parenthood",
@@ -39,7 +39,7 @@
             "position": 2,
             "item": {
                 "@id": "https://www.createivf.com/process/",
-                "name": "Fertility Process Cost"
+                "name": "Process"
             }
         }
     ]
