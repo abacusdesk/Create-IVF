@@ -1,0 +1,64 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Center",
+        "description": "Create IVF helps couples fulfill dreams of becoming parents with cutting-edge fertility research, genetics, and donor-surrogacy programs.",
+        "url": "https://www.createivf.com/",
+        "logo": "https://www.createivf.com/assets/logo.svg",
+        "alternateName": "CReATe IVF"
+    },
+    "name": "Dr. Ari Y. Baratz - Infertility Specialist at CReATe Fertility Center",
+    "description": "Dr Baratz has more than 15 years of extensive experience in Reproductive Endocrinology. He is one of the leading medical specialists for infertility and recurrent miscarriages in Canada.",
+    "inLanguage": "English",
+    "headline": "Dr. Ari Y. Baratz"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "name": "Dr. Ari Y. Baratz",
+    "url": "https://www.createivf.com/about/ari-baratz-fertility-doctor/",
+    "image": "https://www.createivf.com/img/about/ari-baratz-fertility-doctor.jpg",
+    "jobTitle": "Infertility Specialist",
+    "worksFor": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Centre"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.createivf.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.createivf.com/about/",
+                "name": "About"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.createivf.com/about/ari-baratz-fertility-doctor/",
+                "name": "Dr. Ari Y. Baratz"
+            }
+        }
+    ]
+}
+</script>
