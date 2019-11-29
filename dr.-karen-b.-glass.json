@@ -1,0 +1,64 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Center",
+        "description": "Create IVF helps couples fulfill dreams of becoming parents with cutting-edge fertility research, genetics, and donor-surrogacy programs.",
+        "url": "https://www.createivf.com/",
+        "logo": "https://www.createivf.com/assets/logo.svg",
+        "alternateName": "CReATe IVF"
+    },
+    "name": "Dr. Karen B. Glass - Gynecologist & IVF Specialist at CReATe Fertility Center",
+    "description": "Dr. Karen B. Glass is one of the best IVF, IUI specialists in Toronto. She has more than 20 years of experience and is trained in Reproductive Endocrinology, Infertility and Urogynecology.",
+    "inLanguage": "English",
+    "headline": "Dr. Karen B. Glass"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "name": "Dr. Karen B. Glass",
+    "url": "https://www.createivf.com/about/karen-glass-fertility-doctor/",
+    "image": "https://www.createivf.com/img/about/karen-glass-fertility-doctor.jpg",
+    "jobTitle": "Gynecologist & IVF Specialist",
+    "worksFor": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Centre"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.createivf.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.createivf.com/about/",
+                "name": "About"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.createivf.com/about/karen-glass-fertility-doctor/",
+                "name": "Dr. Karen B. Glass"
+            }
+        }
+    ]
+}
+</script>
