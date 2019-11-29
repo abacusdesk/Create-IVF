@@ -1,0 +1,64 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Center",
+        "description": "Create IVF helps couples fulfill dreams of becoming parents with cutting-edge fertility research, genetics, and donor-surrogacy programs.",
+        "url": "https://www.createivf.com/",
+        "logo": "https://www.createivf.com/assets/logo.svg",
+        "alternateName": "CReATe IVF"
+    },
+    "name": "Dr. Michal Dviri -  Clinical Researcher at CReATe Fertility Center",
+    "description": "Dr. Michal Dviri is a part of the reproductive sciences & infertility program at CReATe IVF.",
+    "inLanguage": "English",
+    "headline": "Dr. Michal Dviri"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "name": "Dr. Michal Dviri",
+    "url": "https://www.createivf.com/about/michal-dviri/",
+    "image": "https://www.createivf.com/img/about/prati-sharma-fertility-doctor.jpg",
+    "jobTitle": " Clinical Researcher ",
+    "worksFor": {
+        "@type": "Organization",
+        "name": "CReATe Fertility Centre"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.createivf.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.createivf.com/about/",
+                "name": "About"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.createivf.com/about/michal-dviri/",
+                "name": "Dr. Michal Dviri"
+            }
+        }
+    ]
+}
+</script>
